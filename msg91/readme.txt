@@ -1,4 +1,6 @@
 msg91
+DOCUMENTATION
+https://docs.msg91.com/p/tf9GTextN/e/B1NUt3C8MY/MSG91
 
 FOR SIMPLE SMS
 1)USE ONE API
